@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: Darshit Pandya
-@title: 0-1 Knapsack Problem solved using Genetic Algorithms
+@title: 0/1 Knapsack Problem solved using Genetic Algorithms
 """
 
 '''
