@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 10 22:45:46 2018
 
-@author: Pandya, Darshit (219759996)
+@author: Pandya, Darshit
 @title: Numerical Integration Using Monte Carlo, Simpson, Trapezoidal and Simpson Method
 """
 import random
