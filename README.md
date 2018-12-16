@@ -1,4 +1,4 @@
-# Example Repository
+# Genetic Algorithm and Value Approximation 
 
 Hi all! This repository of mine contains codes that are developed either as a part of coding challenges or random problem solving. Currently the repository has two folders.
 
