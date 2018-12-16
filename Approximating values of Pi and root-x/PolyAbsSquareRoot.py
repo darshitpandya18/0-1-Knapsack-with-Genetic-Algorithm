@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 10 00:25:01 2018
-
-@author: Pandya, Darshit (219759996)
+@author: Pandya, Darshit
 @title: Polynomial abstraction for Square root using the power series (Taylor series)
 """
 import math
