@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 15 18:59:51 2018
-
 @author: Darshit Pandya
 @title: 0-1 Knapsack Problem solved using Genetic Algorithms
 """
